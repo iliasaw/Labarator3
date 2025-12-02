@@ -24,3 +24,4 @@ private:
     bool hasDebt;
     std::vector<Loan*> loanHistory;
 };
+// Change for merge
