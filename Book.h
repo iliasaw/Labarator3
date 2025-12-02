@@ -16,3 +16,5 @@ private:
     std::string author;
     std::string category;
 };
+
+// TODO: Добавить проверку на пустую строку в конструкторе
